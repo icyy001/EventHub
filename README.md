@@ -17,6 +17,7 @@ Backend: Node.js/Express (in-memory data) with Jest/Supertest tests.
 
 ## Quick Start
 
+
 ### Prerequisites
 - **Node.js ≥ 18** (for the API)
 - A web browser (for the frontend)
@@ -38,6 +39,9 @@ Open `index.html` directly in your browser, **or** serve the folder with a quick
     # visit the printed localhost URL
 
 > The frontend expects the API at `http://localhost:3000`. Keep the server running while you use the page.
+
+## Screenshots
+<img src="./screenshots/home.png" alt="EventHub — events list and Add Event form" width="900" />
 
 ---
 
