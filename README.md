@@ -101,5 +101,3 @@ Open `index.html` directly in your browser, **or** serve the folder with a quick
 
 ---
 
-## License
-MIT — © Rayane El Mselmi
